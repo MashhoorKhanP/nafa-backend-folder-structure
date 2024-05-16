@@ -1,1 +1,1 @@
-// Database connection handling
+// Example Database connection handling file
