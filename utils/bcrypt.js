@@ -1,0 +1,1 @@
+// Example Bcrypt password file
